@@ -14,9 +14,9 @@
 
 I’m a **Software Engineer working across applied AI, machine learning, and production software systems**.
 
-I like building the layer between **“the model works”** and **“the product works reliably”** — agents that use tools, retrieval systems grounded in real data, APIs that manage state safely, and AI features that fit into complete products.
+I like building the layer between **“the model works”** and **“the product works reliably”** - agents that use tools, retrieval systems grounded in real data, APIs that manage state safely, and AI features that fit into complete products.
 
-- 🎓 **MS in Computer Science — University of Southern California**
+- 🎓 **MS in Computer Science - University of Southern California**
 - 🔬 **Research:** robustness and evaluation of vision-language models
 - ⚙️ **Previously:** production software, NLP/voice systems, APIs, and ML inference at Harman
 - 🎯 **Focus:** Agentic AI · Multimodal ML · NLP/Speech · Backend Systems · Full-Stack AI
@@ -89,7 +89,7 @@ Connects reusable AI agents to live meetings, then carries the conversation into
 
 ## Research + ML
 
-### 🔬 Robustness Evaluation of Vision-Language Models — USC
+### 🔬 Robustness Evaluation of Vision-Language Models - USC
 
 Studying how multimodal models behave under visual and linguistic perturbations, with an emphasis on **robustness, evaluation, alignment, and failure analysis**.
 
@@ -161,7 +161,7 @@ I care about retrieval quality, tool boundaries, state transitions, failure path
 
 ## Experience Snapshot
 
-### Harman — Software Engineer
+### Harman - Software Engineer
 
 Built and supported production software and NLP systems across **backend APIs, spoken-language applications, model inference, AWS workflows, automation, and deployment-oriented engineering**.
 
