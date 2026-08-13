@@ -1,0 +1,133 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Ankita Khartmol — Models to Systems to Products</title>
+  <desc id="desc">Portfolio banner for software engineering and applied AI.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="58%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#071b26"/>
+    </linearGradient>
+
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#8b5cf6"/>
+      <stop offset="52%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#34d399"/>
+    </linearGradient>
+
+    <radialGradient id="glowA" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#8b5cf6" stop-opacity="0.26"/>
+      <stop offset="100%" stop-color="#8b5cf6" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="glowB" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+
+    <filter id="softGlow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="6"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+
+  <circle cx="1050" cy="52" r="210" fill="url(#glowA)"/>
+  <circle cx="925" cy="320" r="250" fill="url(#glowB)"/>
+
+  <!-- subtle grid -->
+  <g opacity="0.08" stroke="#ffffff">
+    <path d="M0 72H1200M0 144H1200M0 216H1200M0 288H1200"/>
+    <path d="M120 0V360M240 0V360M360 0V360M480 0V360M600 0V360M720 0V360M840 0V360M960 0V360M1080 0V360"/>
+  </g>
+
+  <!-- left identity -->
+  <rect x="72" y="68" width="74" height="5" rx="2.5" fill="url(#accent)"/>
+
+  <text x="72" y="130" fill="#f8fafc"
+        font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif"
+        font-size="49" font-weight="750" letter-spacing="1.5">
+    ANKITA KHARTMOL
+  </text>
+
+  <text x="72" y="181" fill="#cbd5e1"
+        font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif"
+        font-size="21" font-weight="500" letter-spacing="0.8">
+    SOFTWARE ENGINEERING × APPLIED AI
+  </text>
+
+  <text x="72" y="244" fill="#ffffff"
+        font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif"
+        font-size="27" font-weight="650">
+    MODELS
+  </text>
+  <g stroke="#64748b" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <path d="M190 236 H218"/>
+    <path d="M210 228 L218 236 L210 244"/>
+  </g>
+  <text x="235" y="244" fill="#ffffff"
+        font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif"
+        font-size="27" font-weight="650">
+    SYSTEMS
+  </text>
+  <g stroke="#64748b" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <path d="M380 236 H408"/>
+    <path d="M400 228 L408 236 L400 244"/>
+  </g>
+  <text x="425" y="244" fill="#ffffff"
+        font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif"
+        font-size="27" font-weight="650">
+    PRODUCTS
+  </text>
+
+  <text x="72" y="293" fill="#94a3b8"
+        font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif"
+        font-size="17">
+    Agents · Multimodal ML · NLP/Speech · Backend Systems · Full-Stack AI
+  </text>
+
+  <!-- right-side system graph -->
+  <g transform="translate(700 52)">
+    <!-- edges -->
+    <g fill="none" stroke-linecap="round">
+      <path d="M90 92 C170 24, 245 32, 306 94" stroke="#8b5cf6" stroke-opacity="0.62" stroke-width="2.2"/>
+      <path d="M306 94 C356 139, 368 192, 330 238" stroke="#22d3ee" stroke-opacity="0.65" stroke-width="2.2"/>
+      <path d="M330 238 C245 287, 163 282, 100 225" stroke="#34d399" stroke-opacity="0.64" stroke-width="2.2"/>
+      <path d="M100 225 C60 184, 57 132, 90 92" stroke="#8b5cf6" stroke-opacity="0.52" stroke-width="2.2"/>
+      <path d="M90 92 L211 166 L306 94" stroke="#64748b" stroke-opacity="0.42" stroke-width="1.8"/>
+      <path d="M211 166 L330 238 L100 225 Z" stroke="#64748b" stroke-opacity="0.42" stroke-width="1.8"/>
+    </g>
+
+    <!-- central node -->
+    <circle cx="211" cy="166" r="29" fill="#0f172a" stroke="url(#accent)" stroke-width="2.5"/>
+    <circle cx="211" cy="166" r="7" fill="#22d3ee"/>
+    <circle cx="211" cy="166" r="19" fill="none" stroke="#22d3ee" stroke-opacity="0.25" stroke-width="8" filter="url(#softGlow)"/>
+
+    <!-- outer nodes -->
+    <g>
+      <circle cx="90" cy="92" r="15" fill="#141b2a" stroke="#8b5cf6" stroke-width="2"/>
+      <circle cx="306" cy="94" r="15" fill="#141b2a" stroke="#22d3ee" stroke-width="2"/>
+      <circle cx="330" cy="238" r="15" fill="#141b2a" stroke="#34d399" stroke-width="2"/>
+      <circle cx="100" cy="225" r="15" fill="#141b2a" stroke="#8b5cf6" stroke-width="2"/>
+    </g>
+
+    <!-- labels -->
+    <g fill="#cbd5e1" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" font-size="14" font-weight="600">
+      <text x="52" y="60">MODEL</text>
+      <text x="284" y="61">TOOLS</text>
+      <text x="332" y="276">STATE</text>
+      <text x="48" y="264">DATA</text>
+      <text x="182" y="213" fill="#f8fafc">SYSTEM</text>
+    </g>
+
+    <!-- small orbit nodes -->
+    <g fill="#94a3b8" opacity="0.62">
+      <circle cx="165" cy="46" r="3.5"/>
+      <circle cx="366" cy="148" r="3.5"/>
+      <circle cx="248" cy="286" r="3.5"/>
+      <circle cx="42" cy="158" r="3.5"/>
+    </g>
+  </g>
+
+  <rect x="1" y="1" width="1198" height="358" rx="27" fill="none" stroke="#ffffff" stroke-opacity="0.08" stroke-width="2"/>
+</svg>
