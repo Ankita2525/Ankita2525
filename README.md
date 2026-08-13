@@ -177,7 +177,6 @@ Applied machine-learning methods to crime interpretation and forecasting; the re
 
 ---
 
----
 
 ## A little beyond the code
 
