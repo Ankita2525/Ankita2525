@@ -180,7 +180,7 @@ Applied machine-learning methods to crime interpretation and forecasting; the re
 
 ## A little beyond the code
 
-I’m naturally curious about how things work — and even more interested in turning them into something people can actually use.
+I’m naturally curious about how things work - and even more interested in turning them into something people can actually use.
 
 <p align="center">
   <strong>Build the intelligence. Engineer the system. Ship the product.</strong>
