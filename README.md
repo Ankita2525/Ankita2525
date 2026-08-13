@@ -180,9 +180,3 @@ Applied machine-learning methods to crime interpretation and forecasting; the re
 <p align="center">
   <strong>Build the intelligence. Engineer the system. Ship the product.</strong>
 </p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ankitakhartmol/">LinkedIn</a>
-  &nbsp;•&nbsp;
-  <a href="https://github.com/Ankita2525">GitHub</a>
-</p>
