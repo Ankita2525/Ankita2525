@@ -186,5 +186,3 @@ I’m naturally curious about how things work - and even more interested in turn
   <strong>Build the intelligence. Engineer the system. Ship the product.</strong>
 </p>
 
-
-modify. only what is required 
