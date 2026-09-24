@@ -93,7 +93,7 @@ A local-first scheduling agent where the LLM handles intent and tool selection w
 
 ### 🔬 Robustness Evaluation of Vision-Language Models - USC
 
-Studying how multimodal models behave under visual and linguistic perturbations, with an emphasis on **robustness, evaluation, alignment, and failure analysis**.
+Studying how multimodal models behave under visual and linguistic perturbations, with an emphasis on robustness, model evaluation, prompt sensitivity, hallucination, and failure analysis**.
 
 `Vision-Language Models` · `Multimodal Evaluation` · `Model Robustness`
 
