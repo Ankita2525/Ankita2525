@@ -31,9 +31,9 @@ I like building the layer between **“the model works”** and **“the product
 
 ### 🚨 [OpsPilot](https://github.com/Ankita2525/opspilot)
 
-**⭐ Flagship — Autonomous production engineering agent**
+**⭐ Flagship - Autonomous production engineering agent**
 
-Investigates live service incidents using metrics, logs, deployment context, and runtime evidence; generates evidence-grounded diagnoses; requires human approval for risky remediation; and verifies recovery using fresh post-action telemetry.
+Investigates live service incidents using metrics, logs, deployment context, and runtime evidence; generates evidence grounded diagnoses; requires human approval for risky remediation; and verifies recovery using fresh post action telemetry.
 
 `Python` `FastAPI` `Next.js` `PostgreSQL` `Prometheus` `OpenTelemetry` `Grafana Loki` `Groq` `Docker` `Cloud Run`
 
@@ -64,7 +64,7 @@ Turns GitHub repositories into searchable engineering knowledge by ingesting sou
 
 **Real-time AI agents for live meetings**
 
-Connects reusable AI agents to live meetings, then carries the conversation into post-meeting workflows through recording, transcription, background processing, summaries, and contextual Ask-AI experiences.
+Connects reusable AI agents to live meetings, then carries the conversation into post-meeting workflows through recording, transcription, background processing, summaries, and contextual Ask AI experiences.
 
 `Next.js` `TypeScript` `OpenAI Realtime` `Stream` `tRPC` `Inngest`
 
@@ -81,7 +81,7 @@ A local-first scheduling agent where the LLM handles intent and tool selection w
 
 `Python` `FastAPI` `LangChain` `Ollama` `FAISS` `WebSockets`
 
-**Signal:** tool-calling agents · semantic memory · guardrails · async backend
+**Signal:** tool calling agents · semantic memory · guardrails · async backend
 
 </td>
 </tr>
@@ -99,13 +99,13 @@ Studying how multimodal models behave under visual and linguistic perturbations,
 
 ### 🌐 [Semantic Drift in Code-Switched Context](https://github.com/Ankita2525/Semantic-Drift-in-Code-Switched-Context)
 
-A multilingual data-quality and experiment-enablement pipeline for converting noisy code-switched corpora into clean, aligned, reproducible ML-ready datasets.
+A multilingual data-quality and experiment enablement pipeline for converting noisy code-switched corpora into clean, aligned, reproducible ML-ready datasets.
 
 `Multilingual NLP` · `Code Switching` · `LID / NER` · `Data Pipelines`
 
 ### 🧑‍🏫 [LearnFlow AI](https://github.com/Ankita2525/LearnFlow-AI)
 
-A stateful multi-agent learning system where specialized agents refine an objective, collaborate on curriculum planning, synthesize a syllabus, and guide the learner through it.
+A stateful multi agent learning system where specialized agents refine an objective, collaborate on curriculum planning, synthesize a syllabus, and guide the learner through it.
 
 `Multi-Agent Systems` · `LLM Orchestration` · `Stateful AI` · `Human-in-the-Loop`
 
@@ -148,7 +148,7 @@ I care about retrieval quality, tool boundaries, state transitions, failure path
 `Python` · `TypeScript` · `Java` · `C++` · `SQL`
 
 **AI / ML**  
-`PyTorch` · `TensorFlow` · `Transformers` · `LangChain` · `RAG` · `FAISS` · `OpenAI` · `Ollama` · `OpenCV`
+`PyTorch` · `TensorFlow` · `Transformers` · `LangChain` · `RAG` · `FAISS` · `OpenAI` · `Groq` · `Ollama` · `OpenCV`
 
 **Backend / Data**  
 `FastAPI` · `Node.js` · `REST APIs` · `WebSockets` · `PostgreSQL` · `pgvector` · `SQLite`
@@ -156,8 +156,8 @@ I care about retrieval quality, tool boundaries, state transitions, failure path
 **Frontend**  
 `React` · `Next.js` · `TypeScript`
 
-**Cloud / Engineering**  
-`AWS` · `Docker` · `GitHub Actions` · `CI/CD` · `Linux`
+**Cloud / Observability**  
+`AWS` · `Google Cloud Run` · `Docker` · `GitHub Actions` · `Prometheus` · `OpenTelemetry` · `Grafana Loki` · `CI/CD` · `Linux`
 
 ---
 
