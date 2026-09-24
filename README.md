@@ -44,6 +44,22 @@ Investigates live service incidents using metrics, logs, deployment context, and
 </td>
 <td width="50%" valign="top">
 
+### 📅 [SchedMate AI](https://github.com/Ankita2525/Schedmate-AI)
+
+**Agentic scheduling with verified tool execution**
+
+A local-first scheduling agent where the LLM handles intent and tool selection while deterministic application code handles calendar state, conflict detection, persistence, time parsing, and execution verification.
+
+`Python` `FastAPI` `LangChain` `Ollama` `FAISS` `WebSockets`
+
+**Signal:** tool calling agents · semantic memory · guardrails · async backend
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
 ### 🧬 [RepoVerse](https://github.com/Ankita2525/RepoVerse)
 
 **RAG-powered intelligence for software repositories**
@@ -55,9 +71,6 @@ Turns GitHub repositories into searchable engineering knowledge by ingesting sou
 **Signal:** code RAG · semantic retrieval · GitHub integrations · full-stack AI
 
 </td>
-</tr>
-
-<tr>
 <td width="50%" valign="top">
 
 ### 🎙️ [ConvoWeave AI](https://github.com/Ankita2525/ConvoWeave-AI)
@@ -69,19 +82,6 @@ Connects reusable AI agents to live meetings, then carries the conversation into
 `Next.js` `TypeScript` `OpenAI Realtime` `Stream` `tRPC` `Inngest`
 
 **Signal:** realtime AI · speech/audio workflows · event-driven processing · persistent context
-
-</td>
-<td width="50%" valign="top">
-
-### 📅 [SchedMate AI](https://github.com/Ankita2525/Schedmate-AI)
-
-**Agentic scheduling with verified tool execution**
-
-A local-first scheduling agent where the LLM handles intent and tool selection while deterministic application code handles calendar state, conflict detection, persistence, time parsing, and execution verification.
-
-`Python` `FastAPI` `LangChain` `Ollama` `FAISS` `WebSockets`
-
-**Signal:** tool calling agents · semantic memory · guardrails · async backend
 
 </td>
 </tr>
