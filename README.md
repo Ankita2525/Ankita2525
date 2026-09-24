@@ -12,14 +12,14 @@
 
 ## About
 
-I’m a **Software Engineer working across applied AI, machine learning, and production software systems**.
+I’m a **Software Engineer building applied AI systems and production software**.
 
-I like building the layer between **“the model works”** and **“the product works reliably”** - agents that use tools, retrieval systems grounded in real data, APIs that manage state safely, and AI features that fit into complete products.
+I’m especially interested in the layer between **“the model works”** and **“the system works reliably”** - agents that use tools, retrieval systems grounded in real data, evaluation pipelines, backend systems with explicit state, and AI workflows with observable and verifiable behavior.
 
 - 🎓 **MS in Computer Science - University of Southern California**
 - 🔬 **Research:** robustness and evaluation of vision-language models
 - ⚙️ **Previously:** production software, NLP/voice systems, APIs, and ML inference at Harman
-- 🎯 **Focus:** Agentic AI · Multimodal ML · NLP/Speech · Backend Systems · Full-Stack AI
+- 🎯 **Focus:** Agentic AI · AI Evaluation · Multimodal ML · Backend Systems · Full-Stack AI
 
 ---
 
@@ -29,33 +29,19 @@ I like building the layer between **“the model works”** and **“the product
 <tr>
 <td width="50%" valign="top">
 
-### 📅 [SchedMate AI](https://github.com/Ankita2525/Schedmate-AI)
+### 🚨 [OpsPilot](https://github.com/Ankita2525/opspilot)
 
-**Agentic scheduling with verified tool execution**
+**Autonomous production engineering agent**
 
-A local-first scheduling agent where the LLM handles intent and tool selection while deterministic application code handles calendar state, conflict detection, persistence, time parsing, and execution verification.
+Investigates live service incidents using metrics, logs, deployment context, and runtime evidence; generates evidence-grounded root-cause hypotheses; gates risky remediation behind human approval; and verifies recovery using fresh post-action telemetry.
 
-`Python` `FastAPI` `LangChain` `Ollama` `FAISS` `WebSockets`
+`Python` `FastAPI` `Next.js` `PostgreSQL` `Prometheus` `OpenTelemetry` `Grafana Loki` `Groq` `Docker` `Cloud Run`
 
-**Signal:** tool-calling agents · semantic memory · guardrails · async backend
+**Signal:** agentic AI · observability · human-in-the-loop safety · verified remediation
 
-</td>
-<td width="50%" valign="top">
-
-### 🎧 [Escalyn AI](https://github.com/Ankita2525/Escalyn-AI)
-
-**Human-in-the-loop agentic customer support**
-
-A multi-tenant AI support platform built around the full support lifecycle: AI responses, workflow actions, human escalation, shared conversation state, and organization-scoped knowledge ingestion.
-
-`Next.js` `TypeScript` `OpenAI` `Convex` `Clerk` `RAG`
-
-**Signal:** agent actions · human handoff · multi-tenancy · realtime product architecture
+[**Live Demo**](https://opspilot-chi.vercel.app)
 
 </td>
-</tr>
-
-<tr>
 <td width="50%" valign="top">
 
 ### 🧬 [RepoVerse](https://github.com/Ankita2525/RepoVerse)
@@ -69,6 +55,9 @@ Turns GitHub repositories into searchable engineering knowledge by ingesting sou
 **Signal:** code RAG · semantic retrieval · GitHub integrations · full-stack AI
 
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 ### 🎙️ [ConvoWeave AI](https://github.com/Ankita2525/ConvoWeave-AI)
@@ -80,6 +69,19 @@ Connects reusable AI agents to live meetings, then carries the conversation into
 `Next.js` `TypeScript` `OpenAI Realtime` `Stream` `tRPC` `Inngest`
 
 **Signal:** realtime AI · speech/audio workflows · event-driven processing · persistent context
+
+</td>
+<td width="50%" valign="top">
+
+### 📅 [SchedMate AI](https://github.com/Ankita2525/Schedmate-AI)
+
+**Agentic scheduling with verified tool execution**
+
+A local-first scheduling agent where the LLM handles intent and tool selection while deterministic application code handles calendar state, conflict detection, persistence, time parsing, and execution verification.
+
+`Python` `FastAPI` `LangChain` `Ollama` `FAISS` `WebSockets`
+
+**Signal:** tool-calling agents · semantic memory · guardrails · async backend
 
 </td>
 </tr>
@@ -132,56 +134,3 @@ A stateful multi-agent learning system where specialized agents refine an object
         ┌────────────────┐
         │    product     │
         └────────────────┘
-```
-
-**Models reason. Systems validate. Products earn trust.**
-
-I care about retrieval quality, tool boundaries, state transitions, failure paths, latency, persistence, observability, and the human experience around AI.
-
----
-
-## Selected Stack
-
-**Languages**  
-`Python` · `TypeScript` · `Java` · `C++` · `SQL`
-
-**AI / ML**  
-`PyTorch` · `TensorFlow` · `Transformers` · `LangChain` · `RAG` · `FAISS` · `OpenAI` · `Ollama` · `OpenCV`
-
-**Backend / Data**  
-`FastAPI` · `Node.js` · `REST APIs` · `WebSockets` · `PostgreSQL` · `pgvector` · `SQLite`
-
-**Frontend**  
-`React` · `Next.js` · `TypeScript`
-
-**Cloud / Engineering**  
-`AWS` · `Docker` · `GitHub Actions` · `CI/CD` · `Linux`
-
----
-
-## Experience Snapshot
-
-### Harman - Software Engineer
-
-Built and supported production software and NLP systems across **backend APIs, spoken-language applications, model inference, AWS workflows, automation, and deployment-oriented engineering**.
-
----
-
-## Published Work
-
-### 📄 [Crime Interpretation and Forecasting Using Machine Learning](https://github.com/Ankita2525/Crime-Analysis)
-
-**IRJET · 2022**
-
-Applied machine-learning methods to crime interpretation and forecasting; the repository preserves the implementation and associated publication.
-
----
-
-
-## A little beyond the code
-
-I’m naturally curious about how things work - and even more interested in turning them into something people can actually use.
-
-<p align="center">
-  <strong>Build the intelligence. Engineer the system. Ship the product.</strong>
-</p>
