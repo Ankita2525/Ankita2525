@@ -163,7 +163,7 @@ I care about retrieval quality, tool boundaries, state transitions, failure path
 
 ## Experience Snapshot
 
-### Harman - Software Engineer
+### HARMAN Connected Services - Associate Engineer - Product Development
 
 Built and supported production software and NLP systems across **backend APIs, spoken-language applications, model inference, AWS workflows, automation, and deployment-oriented engineering**.
 
