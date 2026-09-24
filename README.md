@@ -26,25 +26,6 @@ I like building the layer between **“the model works”** and **“the product
 ## Selected Engineering
 
 <table>
-
-<tr>
-<td colspan="2" valign="top">
-
-### 🚨 [OpsPilot](https://github.com/Ankita2525/opspilot)
-
-**Autonomous production engineering agent with human-approved remediation**
-
-Investigates live service incidents using metrics, logs, deployment context, and runtime evidence; generates evidence-grounded root-cause hypotheses and remediation recommendations; gates risky actions behind human approval; and verifies recovery using fresh post-action telemetry.
-
-`Python` `FastAPI` `Next.js` `PostgreSQL` `Prometheus` `OpenTelemetry` `Grafana Loki` `Groq` `Docker` `Google Cloud Run`
-
-**Signal:** agentic AI · production observability · human-in-the-loop safety · incident response · evaluation · verified recovery
-
-[**Live Demo →**](https://opspilot-chi.vercel.app)
-
-</td>
-</tr>
-
 <tr>
 <td width="50%" valign="top">
 
@@ -151,3 +132,59 @@ A stateful multi-agent learning system where specialized agents refine an object
         ┌────────────────┐
         │    product     │
         └────────────────┘
+```
+
+**Models reason. Systems validate. Products earn trust.**
+
+I care about retrieval quality, tool boundaries, state transitions, failure paths, latency, persistence, observability, and the human experience around AI.
+
+---
+
+## Selected Stack
+
+**Languages**  
+`Python` · `TypeScript` · `Java` · `C++` · `SQL`
+
+**AI / ML**  
+`PyTorch` · `TensorFlow` · `Transformers` · `LangChain` · `RAG` · `FAISS` · `OpenAI` · `Ollama` · `OpenCV`
+
+**Backend / Data**  
+`FastAPI` · `Node.js` · `REST APIs` · `WebSockets` · `PostgreSQL` · `pgvector` · `SQLite`
+
+**Frontend**  
+`React` · `Next.js` · `TypeScript`
+
+**Cloud / Engineering**  
+`AWS` · `Docker` · `GitHub Actions` · `CI/CD` · `Linux`
+
+---
+
+## Experience Snapshot
+
+### Harman - Software Engineer
+
+Built and supported production software and NLP systems across **backend APIs, spoken-language applications, model inference, AWS workflows, automation, and deployment-oriented engineering**.
+
+---
+
+## Published Work
+
+### 📄 [Crime Interpretation and Forecasting Using Machine Learning](https://github.com/Ankita2525/Crime-Analysis)
+
+**IRJET · 2022**
+
+Applied machine-learning methods to crime interpretation and forecasting; the repository preserves the implementation and associated publication.
+
+---
+
+
+## A little beyond the code
+
+I’m naturally curious about how things work - and even more interested in turning them into something people can actually use.
+
+<p align="center">
+  <strong>Build the intelligence. Engineer the system. Ship the product.</strong>
+</p>
+
+
+modify. only what is required 
