@@ -12,13 +12,13 @@
 
 ## About
 
-I’m a **Software Engineer working across applied AI, machine learning, and production software systems**.
+I’m a **Software Engineer working across applied AI, machine learning, and backend software systems**.
 
 I like building the layer between **“the model works”** and **“the product works reliably”** - agents that use tools, retrieval systems grounded in real data, APIs that manage state safely, and AI features that fit into complete products.
 
 - 🎓 **MS in Computer Science - University of Southern California**
 - 🔬 **Research:** robustness and evaluation of vision language models
-- ⚙️ **Previously:** production software, NLP/voice systems, APIs, and ML inference at Harman
+- ⚙️ **Previously:** production software, NLP/voice systems, APIs, and ML inference at HARMAN
 - 🎯 **Focus:** Agentic AI · AI Evaluation · Multimodal ML · Backend Systems · Full Stack AI
 
 ---
